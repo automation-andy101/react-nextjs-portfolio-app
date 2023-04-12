@@ -9,6 +9,7 @@ import { TbApi } from 'react-icons/tb';
 const Technologies = () =>  (
   <Section id='tech'>
     <SectionDivider />
+    <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       With a background in automated testing I realised my passion for coding. I am looking to branch out and advance my career into
