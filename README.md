@@ -45,6 +45,7 @@ npm i next
 npm i styled-components
 npm i styled-normalize
 npm i react-icons
+npm i @netlify/plugin-nextjs
 
 
 ## Need to use NodeJS v16.0.0 to run app - use nvm to change to this version
