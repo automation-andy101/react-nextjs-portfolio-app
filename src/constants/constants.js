@@ -85,5 +85,5 @@ export const projects = [
 export const TimeLineData = [
   { year: '2015-2019', text: 'Ultra Elctronics Airport Systems - Software Tester', },
   { year: '2019-2022', text: 'ADB Safegate Airport Systems - Software Tester', },
-  { year: '2022-2023', text: 'Founded JavaScript Mastery', }
+  { year: '2022-2023', text: 'Zaizi - Senior Software Tester', }
 ];
