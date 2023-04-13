@@ -22,7 +22,7 @@ export const projects = [
     description: "Restaurant application, written in ReactJS.",
       image: '/images/dining-app.png',
       tags: ['React', 'React Icons', 'CSS'],
-    source: 'https://app.netlify.com/sites/react-fine-dining-app/overview',
+    source: 'https://react-fine-dining-app.netlify.app/',
     visit: 'https://github.com/automation-andy101/react-fine-dining-app',
     id: 2,
   },
